@@ -1,4 +1,6 @@
 {
   "name": "guia1-backend-node-express",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Proyecto backend para practicar Git y GitHub",
+  "main": "src/app.js"
 }
